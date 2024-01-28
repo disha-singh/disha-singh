@@ -33,7 +33,7 @@ Hi there 👋 Welcome to my Github! I'm a tech enthusiast and currently pursuing
 <br />
 
 #
-
+<!--
 ### 📊 Stats
 
 ![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=disha-singh&show_icons=true&theme=radical)
@@ -42,4 +42,4 @@ Hi there 👋 Welcome to my Github! I'm a tech enthusiast and currently pursuing
 
 #
 
-
+-->
