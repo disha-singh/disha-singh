@@ -40,6 +40,3 @@ Hi there 👋 Welcome to my Github! I'm a tech enthusiast and currently pursuing
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=disha-singh&theme=gruvbox&border_radius=4.5) -->
 
-#
-
--->
